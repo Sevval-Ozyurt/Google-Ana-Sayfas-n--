@@ -1,0 +1,80 @@
+.GY
+{
+  background-color: #EEEEEE ;
+  color:black;
+  width:1300px;
+  height:80px;
+  margin: 0 auto;
+}
+.seacgw
+{
+  background-color:white;
+  margin-left: 38%;
+  margin-right:38%;
+  width: 330px;
+  height:8px;
+  padding:5px;
+  border: groove;
+}
+
+.goosrc
+{
+  background-color:white;
+  color:black;
+  margin-left:40.5%;
+  width: 130px;
+  height:20px;
+  margin-top:0.1%;
+  border: groove;
+}
+
+
+  
+ .Imfluck{
+  background-color:white;
+  color:black;
+  margin:-25px;
+  margin-left:51%;
+  width: 130px;
+  height:20px;
+  border: groove;
+}
+  
+.blue{
+  background-color:#70CCC2;
+  
+  height: 70px;
+  font-size:15px;
+  margin: 1px;
+  float: left;
+  margin-top:40px;
+  line-height: normal;
+
+   }
+
+.widths{
+ width:300px ;
+}
+ 
+.widths2{
+  width:497px ;
+ 
+ }
+
+.lines{
+  line-height:4px;
+}
+.fonts{
+  font-size: 12px;
+}
+.email{
+  background-color:white;
+  margin:-1px;
+  margin-left:38%;
+  width: 150px;
+  height:19px;
+  font-size:15px;
+  padding:1px;
+}
+
+  
